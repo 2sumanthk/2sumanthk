@@ -9,4 +9,9 @@
 
 ### Languages and Tools
 
-![JS Logo](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png) ![React Logo](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png) ![Redux logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg) 
+| JavaScript  | React  | Redux  |
+| ------------- | ------------- | ------------- |
+| ![JS Logo](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)  | ![React Logo](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)  | ![Redux logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg)  |  
+
+
+  
