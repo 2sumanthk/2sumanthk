@@ -18,12 +18,10 @@
 - PyTest
 - VSCode 
 - Postman 
-- GitHub 
 - Bootstrap
 - Material UI
 - Selenium
-- qTest
-- Jira
+
 
 
   
