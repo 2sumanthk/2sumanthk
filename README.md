@@ -7,14 +7,23 @@
 - 📫 How to call me :calling: +91 - 9686842570 and :e-mail: me @ 2sumanthk@gmail.com
 - ⚡ Fun fact: Passionate Photographer, very keen to flash pics :camera_flash: , :heart: to cook :poultry_leg: :heart_eyes:
 
-### Languages 📃 and Tools 🏹
+### Languages and Tools
 
-- JavaScript 📃
-- React 📃
-- Redux 📃
-- VSCode 🏹
-- Postman 🏹
-- GitHub 🏹
+- JavaScript 
+- React 
+- Redux 
+- HTML5
+- CSS
+- Python (very beginner)
+- PyTest
+- VSCode 
+- Postman 
+- GitHub 
+- Bootstrap
+- Material UI
+- Selenium
+- qTest
+- Jira
 
 
   
